@@ -26,6 +26,16 @@ Based on this idea, I developed a small software to solve the problem of repetit
 
 ---
 
+## 视频介绍 Video Intro
+
+配套演示视频已发布在 B 站，欢迎前往观看：
+
+👉 [BV1KyfuBnEN5 - 手的助手演示](https://www.bilibili.com/video/BV1KyfuBnEN5/?spm_id_from=333.1387.upload.video_card.click)
+
+视频里会演示从启动、录入步骤、测试到循环运行的完整流程，对照 README 使用效果更佳。
+
+---
+
 ## 界面预览 Preview
 
 ![界面示意](https://github.com/Teacher-Cai/Assis-of-Hand/blob/main/asset/fJ2daHTQw.jpeg)
